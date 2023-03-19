@@ -2,11 +2,9 @@
 layout: default
 ---
 
-* Principal investigator: Anna Reymer ([contact info at Gothenburg University](https://www.gu.se/en/about/find-staff/annareymer)).
-
 We are a computational chemistry team working to decipher the regulatory logic of eukaryotic transcriptional control, to create the basis for new gene-editing therapies. We seek to tackle some of the trickiest aspects of eukaryotic transcriptional control, which due to their dynamic nature often extremely difficult to address by direct experimental observation but can be approached theoretically. Our tools include classical computational chemistry techniques, such as MD and QM, molecular structural design, but also bioinformatics data mining and machine learning. 
 
-Would you like to join us? We are always looking for talented Postdocs, PhD students, MSc and BSc students. If you are interested in our work, please contact [Anna Reymer](mailto:anna.reymer@gu.se).
+Would you like to join us? We are always looking for talented Postdocs, PhD students, MSc and BSc students. If you are interested in our work, please contact principal investigator [Anna Reymer](https://www.gu.se/en/about/find-staff/annareymer).
 
 ### Current projects:
 * Role of DNA sequence-specific flexibility for selective transcription factor proteins-DNA binding
